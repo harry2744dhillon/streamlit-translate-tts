@@ -1,3 +1,5 @@
+!pip install openai gtts streamlit pyPDF2
+
 import streamlit as st
 import openai
 import os
