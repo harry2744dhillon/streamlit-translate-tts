@@ -9,8 +9,7 @@ import io
 
 # Load API Key
 # load_dotenv()
-openai.api_key = "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"
-print("OpenAI API Key loaded successfully.")
+openai.api_key = "OPENAI_API_KEY"
 
 # Language options for translation
 languages = {
